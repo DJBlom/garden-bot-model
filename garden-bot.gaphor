@@ -63,6 +63,7 @@
 <ref refid="bebd40e4-4cdd-11ef-8127-9deb96b7622b"/>
 <ref refid="dac1505b-4cdd-11ef-9013-9deb96b7622b"/>
 <ref refid="f74f375f-4a17-11ef-b41e-59a0e37e617b"/>
+<ref refid="2f4a6b62-4d8f-11ef-9860-15c1aee1845a"/>
 <ref refid="1c8ca1f2-4a17-11ef-ba60-59a0e37e617b"/>
 <ref refid="8749ca3a-4a18-11ef-b226-59a0e37e617b"/>
 <ref refid="cf41eb82-4a19-11ef-b37c-59a0e37e617b"/>
@@ -152,6 +153,11 @@
 <ref refid="a4c74139-d57a-11ed-b606-f47b099bf663"/>
 </reflist>
 </ownedDiagram>
+<ownedType>
+<reflist>
+<ref refid="2f4a3e09-4d8f-11ef-9fa8-15c1aee1845a"/>
+</reflist>
+</ownedType>
 <package>
 <ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
 </package>
@@ -1839,7 +1845,7 @@ The system has power</val>
 <val>(1.0, 0.0, 0.0, 1.0, 362.5533018831501, 244.84067175656213)</val>
 </matrix>
 <points>
-<val>[(1124.6796554316966, 27.602348403907797), (555.6779607510751, -452.7624732216982)]</val>
+<val>[(1131.2769868341275, -617.4159711631021), (555.6779607510751, -452.7624732216982)]</val>
 </points>
 <head-connection>
 <ref refid="6b6d250a-4cd5-11ef-be5f-9deb96b7622b"/>
@@ -1897,7 +1903,7 @@ The system has power</val>
 <val>(1.0, 0.0, 0.0, 1.0, 328.2212401155718, 189.70785925656213)</val>
 </matrix>
 <points>
-<val>[(1159.011717199275, 91.59263217637357), (768.1311708092403, -140.74378630899707)]</val>
+<val>[(1165.6090486017058, -553.4256873906363), (768.1311708092403, -140.74378630899707)]</val>
 </points>
 <head-connection>
 <ref refid="6b6d250a-4cd5-11ef-be5f-9deb96b7622b"/>
@@ -1929,7 +1935,7 @@ The system has power</val>
 <val>(1.0, 0.0, 0.0, 1.0, 714.280184255163, 806.2349250466733)</val>
 </matrix>
 <points>
-<val>[(772.9527730596833, -524.9344336137375), (435.1815406344929, -459.5703295612268)]</val>
+<val>[(779.5501044621146, -1169.9527531807475), (435.1815406344929, -459.5703295612268)]</val>
 </points>
 <head-connection>
 <ref refid="6b6d250a-4cd5-11ef-be5f-9deb96b7622b"/>
@@ -1956,7 +1962,7 @@ The system has power</val>
 </Actor>
 <ActorItem id="6b6d250a-4cd5-11ef-be5f-9deb96b7622b">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1487.2329573148468, 326.4781993513207)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 1493.8302887172777, -318.54012021568917)</val>
 </matrix>
 <top-left>
 <val>(0.0, -78.45992615773332)</val>
@@ -2129,7 +2135,7 @@ The system has power</val>
 <val>(1.0, 0.0, 0.0, 1.0, 1484.9441777168113, 270.01260100176523)</val>
 </matrix>
 <points>
-<val>[(2.2887795980354895, 2.4304191587046944), (-742.1892452396035, -753.8036494268542)]</val>
+<val>[(8.886111000466371, -642.5879004083052), (-742.1892452396035, -753.8036494268542)]</val>
 </points>
 <head-connection>
 <ref refid="6b6d250a-4cd5-11ef-be5f-9deb96b7622b"/>
@@ -2932,4 +2938,37 @@ Data is collected and streamed to the cloud. </val>
 <ref refid="be18d2dc-4a17-11ef-8fa3-59a0e37e617b"/>
 </head-connection>
 </AssociationItem>
+<Block id="2f4a3e09-4d8f-11ef-9fa8-15c1aee1845a">
+<name>
+<val>garden-bot</val>
+</name>
+<package>
+<ref refid="07bbcb9a-70f5-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="2f4a6b62-4d8f-11ef-9860-15c1aee1845a"/>
+</reflist>
+</presentation>
+</Block>
+<BlockItem id="2f4a6b62-4d8f-11ef-9860-15c1aee1845a">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 7.501849335896532, -1238.03270149087)</val>
+</matrix>
+<top-left>
+<val>(27.683896300010474, 134.6103589513814)</val>
+</top-left>
+<width>
+<val>1228.360673660271</val>
+</width>
+<height>
+<val>1761.1016514250832</val>
+</height>
+<diagram>
+<ref refid="6e6229bc-70f4-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="2f4a3e09-4d8f-11ef-9fa8-15c1aee1845a"/>
+</subject>
+</BlockItem>
 </gaphor>
