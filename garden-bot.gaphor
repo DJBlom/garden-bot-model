@@ -145,6 +145,7 @@
 <ref refid="dc03241e-4e80-11ef-bdba-c539a8cb7fe8"/>
 <ref refid="f4444741-4e80-11ef-b4a3-c539a8cb7fe8"/>
 <ref refid="12447ea8-4e81-11ef-a0f9-c539a8cb7fe8"/>
+<ref refid="16a46d06-4e8b-11ef-a0c1-ed1db064b65f"/>
 </reflist>
 </ownedType>
 <package>
@@ -297,6 +298,7 @@
 <ref refid="dc035e5f-4e80-11ef-9840-c539a8cb7fe8"/>
 <ref refid="f4447d3a-4e80-11ef-8593-c539a8cb7fe8"/>
 <ref refid="1244b787-4e81-11ef-bba1-c539a8cb7fe8"/>
+<ref refid="16a4a4ca-4e8b-11ef-b2a1-ed1db064b65f"/>
 <ref refid="dcd5bf68-4e78-11ef-804d-c539a8cb7fe8"/>
 <ref refid="dfc64367-4e78-11ef-91a9-c539a8cb7fe8"/>
 <ref refid="e5599494-4e78-11ef-858b-c539a8cb7fe8"/>
@@ -317,6 +319,7 @@
 <ref refid="724b3e06-4e81-11ef-9096-c539a8cb7fe8"/>
 <ref refid="7e2cb867-4e81-11ef-acdb-c539a8cb7fe8"/>
 <ref refid="848ecb97-4e81-11ef-b300-c539a8cb7fe8"/>
+<ref refid="3ac06dcb-4e8b-11ef-80af-ed1db064b65f"/>
 </reflist>
 </ownedPresentation>
 <presentation>
@@ -1371,7 +1374,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 635.0341599243848, -359.9549437249342)</val>
 </matrix>
 <points>
-<val>[(77.67610267364546, 306.6378753152882), (-454.72158308386093, 562.9719240435992)]</val>
+<val>[(82.49347684105248, 288.1152091611285), (-454.72158308386093, 562.9719240435992)]</val>
 </points>
 <head-connection>
 <ref refid="a9608eaa-4a19-11ef-b88e-59a0e37e617b"/>
@@ -1399,7 +1402,7 @@
 </UseCase>
 <UseCaseItem id="819990c6-4a17-11ef-9919-59a0e37e617b">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 753.3685655573747, 57.29121986800211)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 756.3440387611146, 62.03200368728563)</val>
 </matrix>
 <top-left>
 <val>(-29.039031982422102, 0.0)</val>
@@ -1510,7 +1513,7 @@
 </UseCase>
 <UseCaseItem id="a9608eaa-4a19-11ef-b88e-59a0e37e617b">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 752.683516177847, -88.8708107541506)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 757.5008903452538, -107.39347690831028)</val>
 </matrix>
 <top-left>
 <val>(-39.97325357981674, 0.0)</val>
@@ -1595,7 +1598,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 370.0856625221845, 594.3146180697555)</val>
 </matrix>
 <points>
-<val>[(1175.3820166536566, -491.4357527510354), (495.4397546193295, -500.9173203896023)]</val>
+<val>[(1175.3820166536566, -491.4357527510354), (498.41522782306936, -496.1765365703189)]</val>
 </points>
 <head-connection>
 <ref refid="6b6d250a-4cd5-11ef-be5f-9deb96b7622b"/>
@@ -1879,7 +1882,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 1610.1781839808968, -84.32791901817552)</val>
 </matrix>
 <points>
-<val>[(-746.4946678030499, 31.010850608529566), (-64.71050480505576, 187.20678433689562)]</val>
+<val>[(-741.6772936356429, 12.488184454369886), (-64.71050480505576, 187.20678433689562)]</val>
 </points>
 <head-connection>
 <ref refid="a9608eaa-4a19-11ef-b88e-59a0e37e617b"/>
@@ -5343,7 +5346,7 @@
 <val>178.88671875</val>
 </width>
 <height>
-<val>147.92576599121094</val>
+<val>134.0</val>
 </height>
 <diagram>
 <ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
@@ -5374,7 +5377,7 @@
 </UseCaseItem>
 <UseCaseItem id="379dd8ab-4e70-11ef-8b55-c539a8cb7fe8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1628.885537900431, 696.5)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 1628.885537900432, 696.5)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -6302,7 +6305,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 559.0472953281921, 1002.8770164540651)</val>
 </matrix>
 <points>
-<val>[(0.0, 1.1813435131241476), (-235.94576334577027, 176.1015625)]</val>
+<val>[(-61.985294804332625, 1.1813435131241476), (-235.94576334577027, 176.1015625)]</val>
 </points>
 <head-connection>
 <ref refid="b4d1cba1-4e75-11ef-b927-c539a8cb7fe8"/>
@@ -6341,7 +6344,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 601.8676078281921, 1005.4902977040651)</val>
 </matrix>
 <points>
-<val>[(0.0, -1.4319377368758524), (-89.93359375, 173.48828125)]</val>
+<val>[(-28.540043339488875, -1.4319377368758524), (-89.93359375, 173.48828125)]</val>
 </points>
 <head-connection>
 <ref refid="b4d1cba1-4e75-11ef-b927-c539a8cb7fe8"/>
@@ -6502,7 +6505,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 1688.0353909484982, 725.437927191017)</val>
 </matrix>
 <points>
-<val>[(-11.007881573927307, 1.0620728089829754), (-9.149853048066234, 140.39777652617227)]</val>
+<val>[(-11.007881573926397, 1.0620728089829754), (-9.149853048066234, 140.39777652617227)]</val>
 </points>
 <head-connection>
 <ref refid="379dd8ab-4e70-11ef-8b55-c539a8cb7fe8"/>
@@ -6939,4 +6942,87 @@
 <ref refid="dc03241e-4e80-11ef-bdba-c539a8cb7fe8"/>
 </targetContext>
 </Refine>
+<Requirement id="16a46d06-4e8b-11ef-a0c1-ed1db064b65f">
+<externalId>
+<val>021</val>
+</externalId>
+<name>
+<val>wifi connectivity</val>
+</name>
+<package>
+<ref refid="012edaba-70f5-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="16a4a4ca-4e8b-11ef-b2a1-ed1db064b65f"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="3bab6ae8-4e8b-11ef-b2e3-ed1db064b65f"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>The garden-bot shall have wifi connectivity</val>
+</text>
+</Requirement>
+<RequirementItem id="16a4a4ca-4e8b-11ef-b2a1-ed1db064b65f">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 2025.9145659809728, 758.7310629737515)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>206.75006103515625</val>
+</width>
+<height>
+<val>120.97490648687574</val>
+</height>
+<diagram>
+<ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="16a46d06-4e8b-11ef-a0c1-ed1db064b65f"/>
+</subject>
+</RequirementItem>
+<SatisfyItem id="3ac06dcb-4e8b-11ef-80af-ed1db064b65f">
+<diagram>
+<ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="3bab6ae8-4e8b-11ef-b2e3-ed1db064b65f"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1729.172439516129, 711.9091097194163)</val>
+</matrix>
+<points>
+<val>[(-0.2869016156971611, 0.0), (296.74212646484375, 71.27731323242188)]</val>
+</points>
+<head-connection>
+<ref refid="379dd8ab-4e70-11ef-8b55-c539a8cb7fe8"/>
+</head-connection>
+<tail-connection>
+<ref refid="16a4a4ca-4e8b-11ef-b2a1-ed1db064b65f"/>
+</tail-connection>
+</SatisfyItem>
+<Satisfy id="3bab6ae8-4e8b-11ef-b2e3-ed1db064b65f">
+<presentation>
+<reflist>
+<ref refid="3ac06dcb-4e8b-11ef-80af-ed1db064b65f"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="de50bf3b-4a17-11ef-8f9a-59a0e37e617b"/>
+</sourceContext>
+<targetContext>
+<ref refid="16a46d06-4e8b-11ef-a0c1-ed1db064b65f"/>
+</targetContext>
+</Satisfy>
 </gaphor>
