@@ -391,6 +391,17 @@
 <ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
 </reflist>
 </ownedDiagram>
+<ownedType>
+<reflist>
+<ref refid="0146cf52-5a5b-11ef-9fbb-d5c310df8582"/>
+<ref refid="096c3b37-5a5f-11ef-8ae6-d5c310df8582"/>
+<ref refid="d43cbb9e-5a62-11ef-aa08-d5c310df8582"/>
+<ref refid="27fabd7f-5a63-11ef-9248-d5c310df8582"/>
+<ref refid="29677c21-5a63-11ef-a130-d5c310df8582"/>
+<ref refid="01eb5b17-5a65-11ef-b32c-d5c310df8582"/>
+<ref refid="85230d77-5a65-11ef-ad6c-d5c310df8582"/>
+</reflist>
+</ownedType>
 <package>
 <ref refid="69467c56-6714-11ec-ba25-0456e5e540ed"/>
 </package>
@@ -634,6 +645,36 @@
 <name>
 <val>Technology Requirements</val>
 </name>
+<ownedPresentation>
+<reflist>
+<ref refid="3861dcf4-5a4f-11ef-ba89-d5c310df8582"/>
+<ref refid="3f05fc30-5a4f-11ef-99ba-d5c310df8582"/>
+<ref refid="45bed3a5-5a4f-11ef-9f8c-d5c310df8582"/>
+<ref refid="9493dd3f-5a4f-11ef-971e-d5c310df8582"/>
+<ref refid="9c718b8b-5a4f-11ef-9227-d5c310df8582"/>
+<ref refid="a3744874-5a4f-11ef-8935-d5c310df8582"/>
+<ref refid="a61a116b-5a4f-11ef-8dbb-d5c310df8582"/>
+<ref refid="a7a00955-5a4f-11ef-a71e-d5c310df8582"/>
+<ref refid="a8d98f18-5a4f-11ef-b925-d5c310df8582"/>
+<ref refid="aa3e2b49-5a4f-11ef-be90-d5c310df8582"/>
+<ref refid="abd63263-5a4f-11ef-94cc-d5c310df8582"/>
+<ref refid="ad31a041-5a4f-11ef-9c7b-d5c310df8582"/>
+<ref refid="ae6b81c2-5a4f-11ef-b01f-d5c310df8582"/>
+<ref refid="014715fe-5a5b-11ef-acfc-d5c310df8582"/>
+<ref refid="096c823f-5a5f-11ef-b251-d5c310df8582"/>
+<ref refid="d43d032d-5a62-11ef-8ac8-d5c310df8582"/>
+<ref refid="2967b03a-5a63-11ef-8700-d5c310df8582"/>
+<ref refid="01eba2b8-5a65-11ef-8f1d-d5c310df8582"/>
+<ref refid="8523536a-5a65-11ef-8677-d5c310df8582"/>
+<ref refid="dbeea487-5a5b-11ef-9dfc-d5c310df8582"/>
+<ref refid="d6c3a705-5a5f-11ef-a55c-d5c310df8582"/>
+<ref refid="18cbd790-5a63-11ef-93c6-d5c310df8582"/>
+<ref refid="ed47e11d-5a64-11ef-a09d-d5c310df8582"/>
+<ref refid="8116dcb4-5a65-11ef-9553-d5c310df8582"/>
+<ref refid="ee93d25a-5a65-11ef-a058-d5c310df8582"/>
+<ref refid="01d7303e-5a66-11ef-9b6b-d5c310df8582"/>
+</reflist>
+</ownedPresentation>
 <presentation>
 <reflist>
 <ref refid="d2504e42-f1a5-11ed-9a5e-f47b099bf663"/>
@@ -12081,6 +12122,7 @@
 <presentation>
 <reflist>
 <ref refid="41f2088e-5341-11ef-8e06-69e626f41da1"/>
+<ref refid="ae6b81c2-5a4f-11ef-b01f-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -12164,6 +12206,7 @@
 <presentation>
 <reflist>
 <ref refid="f4df0b86-5349-11ef-a384-69e626f41da1"/>
+<ref refid="9c718b8b-5a4f-11ef-9227-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -12234,6 +12277,7 @@
 <presentation>
 <reflist>
 <ref refid="57def283-534e-11ef-b2f5-69e626f41da1"/>
+<ref refid="3861dcf4-5a4f-11ef-ba89-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -12304,6 +12348,8 @@
 <presentation>
 <reflist>
 <ref refid="8da7651c-534e-11ef-8d8f-69e626f41da1"/>
+<ref refid="a3744874-5a4f-11ef-8935-d5c310df8582"/>
+<ref refid="a61a116b-5a4f-11ef-8dbb-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -12374,6 +12420,7 @@
 <presentation>
 <reflist>
 <ref refid="bb2d944e-534e-11ef-af8e-69e626f41da1"/>
+<ref refid="aa3e2b49-5a4f-11ef-be90-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -12444,6 +12491,7 @@
 <presentation>
 <reflist>
 <ref refid="059cf502-534f-11ef-b62e-69e626f41da1"/>
+<ref refid="ad31a041-5a4f-11ef-9c7b-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -12452,7 +12500,7 @@
 </reflist>
 </targetDirectedRelationshipPropertyPath_>
 <text>
-<val>When the on request is received, the controller shall continuously receive water flow sensor information and stream it to the mobile application for monitoring</val>
+<val>When the on request is received, the controller shall continuously receive water flow sensor information and stream it to the cloud for monitoring</val>
 </text>
 </Requirement>
 <RequirementItem id="059cf502-534f-11ef-b62e-69e626f41da1">
@@ -12466,7 +12514,7 @@
 <val>257.5514478860928</val>
 </width>
 <height>
-<val>185.0</val>
+<val>168.0</val>
 </height>
 <diagram>
 <ref refid="07658ade-70f8-11ec-aabc-f47b099bf663"/>
@@ -12492,7 +12540,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 275.1593495740782, 293.1554137973617)</val>
 </matrix>
 <points>
-<val>[(269.05706755152505, -35.83329853327649), (480.63590083917234, -192.19686394649653)]</val>
+<val>[(269.05706755152505, -35.83329853327649), (480.63590083917234, -209.19686394649653)]</val>
 </points>
 <head-connection>
 <ref refid="09f21b0e-5350-11ef-b3de-69e626f41da1"/>
@@ -12506,7 +12554,7 @@
 <val>003</val>
 </externalId>
 <name>
-<val>New Requirement</val>
+<val>collectWaterUsageData</val>
 </name>
 <package>
 <ref refid="cca1054c-70f5-11ec-aabc-f47b099bf663"/>
@@ -12514,6 +12562,7 @@
 <presentation>
 <reflist>
 <ref refid="2f57edf6-534f-11ef-8aa8-69e626f41da1"/>
+<ref refid="45bed3a5-5a4f-11ef-9f8c-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -12834,6 +12883,7 @@
 <presentation>
 <reflist>
 <ref refid="6a658b89-5350-11ef-884e-69e626f41da1"/>
+<ref refid="a8d98f18-5a4f-11ef-b925-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -12930,6 +12980,7 @@
 <presentation>
 <reflist>
 <ref refid="a5aa0772-5350-11ef-945b-69e626f41da1"/>
+<ref refid="9493dd3f-5a4f-11ef-971e-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -13013,6 +13064,7 @@
 <presentation>
 <reflist>
 <ref refid="d131b0d5-5350-11ef-a41a-69e626f41da1"/>
+<ref refid="a7a00955-5a4f-11ef-a71e-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -13096,6 +13148,7 @@
 <presentation>
 <reflist>
 <ref refid="1f64e1e6-5351-11ef-89d6-69e626f41da1"/>
+<ref refid="abd63263-5a4f-11ef-94cc-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -13179,6 +13232,7 @@
 <presentation>
 <reflist>
 <ref refid="59935d0a-5351-11ef-b588-69e626f41da1"/>
+<ref refid="3f05fc30-5a4f-11ef-99ba-d5c310df8582"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -19537,4 +19591,810 @@ This behavior will collect all necessary data that is required for optimal garde
 <ref refid="cf9167ea-5a4e-11ef-a488-d5c310df8582"/>
 </itemFlow>
 </Property>
+<RequirementItem id="3861dcf4-5a4f-11ef-ba89-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 2456.8961898800267, 2145.1599172679685)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>305.2265625</val>
+</width>
+<height>
+<val>164.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="57deb582-534e-11ef-9607-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="3f05fc30-5a4f-11ef-99ba-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1212.4201113064028, 1998.1599172679682)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>267.40978732491766</val>
+</width>
+<height>
+<val>147.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="5993265a-5351-11ef-ac1a-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="45bed3a5-5a4f-11ef-9f8c-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -1360.9241046105303, 1767.7190393944713)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>278.8665790265353</val>
+</width>
+<height>
+<val>181.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="2f57acfe-534f-11ef-8322-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="9493dd3f-5a4f-11ef-971e-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -588.6180335980177, -1182.7998186549166)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>213.43616694003254</val>
+</width>
+<height>
+<val>164.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="a5a9c754-5350-11ef-a879-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="9c718b8b-5a4f-11ef-9227-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -1507.3608091552142, 532.100303223245)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>285.86999405795154</val>
+</width>
+<height>
+<val>164.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="f4ded38c-5349-11ef-b417-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="a3744874-5a4f-11ef-8935-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 321.44877569263866, 1634.0597396849862)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>301.47441604087203</val>
+</width>
+<height>
+<val>181.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="8da72f15-534e-11ef-9532-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="a61a116b-5a4f-11ef-8dbb-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 2533.2046471670196, -1246.918106897394)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>317.72828842601996</val>
+</width>
+<height>
+<val>181.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="8da72f15-534e-11ef-9532-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="a7a00955-5a4f-11ef-a71e-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1236.2461996877664, 786.5484198653966)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>219.7576105621897</val>
+</width>
+<height>
+<val>164.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="d13171bb-5350-11ef-80d4-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="a8d98f18-5a4f-11ef-b925-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -178.9491416974803, -375.87699909340455)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>275.4196880653417</val>
+</width>
+<height>
+<val>164.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="6a655200-5350-11ef-a595-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="aa3e2b49-5a4f-11ef-be90-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 2527.636447191909, 1131.6798149170847)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>290.5859743369872</val>
+</width>
+<height>
+<val>181.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="bb2d5a33-534e-11ef-a9cb-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="abd63263-5a4f-11ef-94cc-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 2393.4798599736364, 66.5116161112481)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>279.44957438676624</val>
+</width>
+<height>
+<val>147.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="1f64aa47-5351-11ef-9466-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="ad31a041-5a4f-11ef-9c7b-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 56.24249542109055, -1074.0235756473942)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>285.936166940033</val>
+</width>
+<height>
+<val>181.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="059cb8fb-534f-11ef-8241-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<RequirementItem id="ae6b81c2-5a4f-11ef-b01f-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 980.1400391796682, -709.5448656854461)</val>
+</matrix>
+<top-left>
+<val>(-105.23761389249182, 0.0)</val>
+</top-left>
+<width>
+<val>218.23761389249182</val>
+</width>
+<height>
+<val>170.48367294210294</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="41f1cade-5341-11ef-b9ec-69e626f41da1"/>
+</subject>
+</RequirementItem>
+<Requirement id="0146cf52-5a5b-11ef-9fbb-d5c310df8582">
+<externalId>
+<val>019</val>
+</externalId>
+<name>
+<val>gpsParsing</val>
+</name>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="014715fe-5a5b-11ef-acfc-d5c310df8582"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="dcf6da5c-5a5b-11ef-9e59-d5c310df8582"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>Upon receiving GPS proximity data it shall be parsed to reflect accurate coordinates before being stored for streaming.</val>
+</text>
+</Requirement>
+<RequirementItem id="014715fe-5a5b-11ef-acfc-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -620.9933977927888, -718.044865685446)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>251.96163555381463</val>
+</width>
+<height>
+<val>151.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="0146cf52-5a5b-11ef-9fbb-d5c310df8582"/>
+</subject>
+</RequirementItem>
+<DeriveReqtItem id="dbeea487-5a5b-11ef-9dfc-d5c310df8582">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="dcf6da5c-5a5b-11ef-9e59-d5c310df8582"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -541.1474520132156, -1018.5703046256385)</val>
+</matrix>
+<points>
+<val>[(46.13487199733413, -0.22951402927810705), (42.292069498571664, 300.52543894019254)]</val>
+</points>
+<head-connection>
+<ref refid="9493dd3f-5a4f-11ef-971e-d5c310df8582"/>
+</head-connection>
+<tail-connection>
+<ref refid="014715fe-5a5b-11ef-acfc-d5c310df8582"/>
+</tail-connection>
+</DeriveReqtItem>
+<DeriveReqt id="dcf6da5c-5a5b-11ef-9e59-d5c310df8582">
+<presentation>
+<reflist>
+<ref refid="dbeea487-5a5b-11ef-9dfc-d5c310df8582"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="a5a9c754-5350-11ef-a879-69e626f41da1"/>
+</sourceContext>
+<targetContext>
+<ref refid="0146cf52-5a5b-11ef-9fbb-d5c310df8582"/>
+</targetContext>
+</DeriveReqt>
+<Requirement id="096c3b37-5a5f-11ef-8ae6-d5c310df8582">
+<externalId>
+<val>020</val>
+</externalId>
+<name>
+<val>streamProtocol</val>
+</name>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="096c823f-5a5f-11ef-b251-d5c310df8582"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="d78a8e1b-5a5f-11ef-95f3-d5c310df8582"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>Data streamed to the cloud shall follow the HTTPS protocol to ensure correct cummunication between the garden-bot and the cloud platform.</val>
+</text>
+</Requirement>
+<RequirementItem id="096c823f-5a5f-11ef-b251-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -64.96071135479384, -45.481564572137174)</val>
+</matrix>
+<top-left>
+<val>(-101.557172620031, 68.0)</val>
+</top-left>
+<width>
+<val>250.557172620031</val>
+</width>
+<height>
+<val>168.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="096c3b37-5a5f-11ef-8ae6-d5c310df8582"/>
+</subject>
+</RequirementItem>
+<DeriveReqtItem id="d6c3a705-5a5f-11ef-a55c-d5c310df8582">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="d78a8e1b-5a5f-11ef-95f3-d5c310df8582"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -62.71161550455308, -210.7290422388475)</val>
+</matrix>
+<points>
+<val>[(0.0, -1.1479568545570658), (0.0, 233.24747766671027)]</val>
+</points>
+<head-connection>
+<ref refid="a8d98f18-5a4f-11ef-b925-d5c310df8582"/>
+</head-connection>
+<tail-connection>
+<ref refid="096c823f-5a5f-11ef-b251-d5c310df8582"/>
+</tail-connection>
+</DeriveReqtItem>
+<DeriveReqt id="d78a8e1b-5a5f-11ef-95f3-d5c310df8582">
+<presentation>
+<reflist>
+<ref refid="d6c3a705-5a5f-11ef-a55c-d5c310df8582"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="6a655200-5350-11ef-a595-69e626f41da1"/>
+</sourceContext>
+<targetContext>
+<ref refid="096c3b37-5a5f-11ef-8ae6-d5c310df8582"/>
+</targetContext>
+</DeriveReqt>
+<Requirement id="d43cbb9e-5a62-11ef-aa08-d5c310df8582">
+<externalId>
+<val>021</val>
+</externalId>
+<name>
+<val>valveControl</val>
+</name>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="d43d032d-5a62-11ef-8ac8-d5c310df8582"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="199006f4-5a63-11ef-be5a-d5c310df8582"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>The water valve shall be adjusted with PWM signals</val>
+</text>
+</Requirement>
+<RequirementItem id="d43d032d-5a62-11ef-8ac8-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 621.0396577433443, -329.3954547755214)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>194.03401941290315</val>
+</width>
+<height>
+<val>134.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="d43cbb9e-5a62-11ef-aa08-d5c310df8582"/>
+</subject>
+</RequirementItem>
+<DeriveReqtItem id="18cbd790-5a63-11ef-93c6-d5c310df8582">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="199006f4-5a63-11ef-be5a-d5c310df8582"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 919.3750929289849, -522.7779707002195)</val>
+</matrix>
+<points>
+<val>[(3.410605131648481e-13, -16.2832220431236), (-201.31842547918842, 193.3825159246981)]</val>
+</points>
+<head-connection>
+<ref refid="ae6b81c2-5a4f-11ef-b01f-d5c310df8582"/>
+</head-connection>
+<tail-connection>
+<ref refid="d43d032d-5a62-11ef-8ac8-d5c310df8582"/>
+</tail-connection>
+</DeriveReqtItem>
+<DeriveReqt id="199006f4-5a63-11ef-be5a-d5c310df8582">
+<presentation>
+<reflist>
+<ref refid="18cbd790-5a63-11ef-93c6-d5c310df8582"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="41f1cade-5341-11ef-b9ec-69e626f41da1"/>
+</sourceContext>
+<targetContext>
+<ref refid="d43cbb9e-5a62-11ef-aa08-d5c310df8582"/>
+</targetContext>
+</DeriveReqt>
+<Activity id="27fabd7f-5a63-11ef-9248-d5c310df8582">
+<name>
+<val>Activity</val>
+</name>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+</Activity>
+<Requirement id="29677c21-5a63-11ef-a130-d5c310df8582">
+<externalId>
+<val>022</val>
+</externalId>
+<name>
+<val>valveAdjustmentRate</val>
+</name>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="2967b03a-5a63-11ef-8700-d5c310df8582"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="ede41399-5a64-11ef-a372-d5c310df8582"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>The valve shall be adjusted every 20 msec.</val>
+</text>
+</Requirement>
+<RequirementItem id="2967b03a-5a63-11ef-8700-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1050.5319956077874, -329.3954547755214)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>177.0</val>
+</width>
+<height>
+<val>134.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="29677c21-5a63-11ef-a130-d5c310df8582"/>
+</subject>
+</RequirementItem>
+<DeriveReqtItem id="ed47e11d-5a64-11ef-a09d-d5c310df8582">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="ede41399-5a64-11ef-a372-d5c310df8582"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1029.5699946082045, -523.0137462036096)</val>
+</matrix>
+<points>
+<val>[(1.1368683772161603e-13, -16.047446539733528), (103.031872003167, 193.61829142808818)]</val>
+</points>
+<head-connection>
+<ref refid="ae6b81c2-5a4f-11ef-b01f-d5c310df8582"/>
+</head-connection>
+<tail-connection>
+<ref refid="2967b03a-5a63-11ef-8700-d5c310df8582"/>
+</tail-connection>
+</DeriveReqtItem>
+<DeriveReqt id="ede41399-5a64-11ef-a372-d5c310df8582">
+<presentation>
+<reflist>
+<ref refid="ed47e11d-5a64-11ef-a09d-d5c310df8582"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="41f1cade-5341-11ef-b9ec-69e626f41da1"/>
+</sourceContext>
+<targetContext>
+<ref refid="29677c21-5a63-11ef-a130-d5c310df8582"/>
+</targetContext>
+</DeriveReqt>
+<Requirement id="01eb5b17-5a65-11ef-b32c-d5c310df8582">
+<externalId>
+<val>023</val>
+</externalId>
+<name>
+<val>waterFlowRatePrecision</val>
+</name>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="01eba2b8-5a65-11ef-8f1d-d5c310df8582"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="819bba88-5a65-11ef-aefe-d5c310df8582"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>The water flwo rate shall be calculated to 2 decimal places of precision.</val>
+</text>
+</Requirement>
+<RequirementItem id="01eba2b8-5a65-11ef-8f1d-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -123.00175459982924, -709.544865685446)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>255.5677887083654</val>
+</width>
+<height>
+<val>134.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="01eb5b17-5a65-11ef-b32c-d5c310df8582"/>
+</subject>
+</RequirementItem>
+<DeriveReqtItem id="8116dcb4-5a65-11ef-9553-d5c310df8582">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="819bba88-5a65-11ef-aefe-d5c310df8582"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 79.37866348076022, -893.9494267709629)</val>
+</matrix>
+<points>
+<val>[(0.0, 0.925851123568691), (-81.11257655178834, 184.4045610855169)]</val>
+</points>
+<head-connection>
+<ref refid="ad31a041-5a4f-11ef-9c7b-d5c310df8582"/>
+</head-connection>
+<tail-connection>
+<ref refid="01eba2b8-5a65-11ef-8f1d-d5c310df8582"/>
+</tail-connection>
+</DeriveReqtItem>
+<DeriveReqt id="819bba88-5a65-11ef-aefe-d5c310df8582">
+<presentation>
+<reflist>
+<ref refid="8116dcb4-5a65-11ef-9553-d5c310df8582"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="059cb8fb-534f-11ef-8241-69e626f41da1"/>
+</sourceContext>
+<targetContext>
+<ref refid="01eb5b17-5a65-11ef-b32c-d5c310df8582"/>
+</targetContext>
+</DeriveReqt>
+<Requirement id="85230d77-5a65-11ef-ad6c-d5c310df8582">
+<externalId>
+<val>024</val>
+</externalId>
+<name>
+<val>updatedFlowRate</val>
+</name>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="8523536a-5a65-11ef-8677-d5c310df8582"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="ef3dd4bc-5a65-11ef-92f5-d5c310df8582"/>
+<ref refid="02e046e7-5a66-11ef-85de-d5c310df8582"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>The updated flow rate shall be sent to the cloud, and used to command the water-valve.</val>
+</text>
+</Requirement>
+<RequirementItem id="8523536a-5a65-11ef-8677-d5c310df8582">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 212.26420395356138, -709.544865685446)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>215.67812459234233</val>
+</width>
+<height>
+<val>151.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="85230d77-5a65-11ef-ad6c-d5c310df8582"/>
+</subject>
+</RequirementItem>
+<DeriveReqtItem id="ee93d25a-5a65-11ef-a058-d5c310df8582">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="ef3dd4bc-5a65-11ef-92f5-d5c310df8582"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 251.15266026887525, -892.1259326449087)</val>
+</matrix>
+<points>
+<val>[(0.0, -0.897643002485438), (59.94152486157566, 182.58106695946276)]</val>
+</points>
+<head-connection>
+<ref refid="ad31a041-5a4f-11ef-9c7b-d5c310df8582"/>
+</head-connection>
+<tail-connection>
+<ref refid="8523536a-5a65-11ef-8677-d5c310df8582"/>
+</tail-connection>
+</DeriveReqtItem>
+<DeriveReqt id="ef3dd4bc-5a65-11ef-92f5-d5c310df8582">
+<presentation>
+<reflist>
+<ref refid="ee93d25a-5a65-11ef-a058-d5c310df8582"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="059cb8fb-534f-11ef-8241-69e626f41da1"/>
+</sourceContext>
+<targetContext>
+<ref refid="85230d77-5a65-11ef-ad6c-d5c310df8582"/>
+</targetContext>
+</DeriveReqt>
+<SatisfyItem id="01d7303e-5a66-11ef-9b6b-d5c310df8582">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="02e046e7-5a66-11ef-85de-d5c310df8582"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 871.4272250967899, -665.3342125753802)</val>
+</matrix>
+<points>
+<val>[(3.475200190386431, -12.428864476925128), (-443.4848965508862, -15.828527800334314)]</val>
+</points>
+<head-connection>
+<ref refid="ae6b81c2-5a4f-11ef-b01f-d5c310df8582"/>
+</head-connection>
+<tail-connection>
+<ref refid="8523536a-5a65-11ef-8677-d5c310df8582"/>
+</tail-connection>
+</SatisfyItem>
+<Satisfy id="02e046e7-5a66-11ef-85de-d5c310df8582">
+<presentation>
+<reflist>
+<ref refid="01d7303e-5a66-11ef-9b6b-d5c310df8582"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="41f1cade-5341-11ef-b9ec-69e626f41da1"/>
+</sourceContext>
+<targetContext>
+<ref refid="85230d77-5a65-11ef-ad6c-d5c310df8582"/>
+</targetContext>
+</Satisfy>
 </gaphor>
